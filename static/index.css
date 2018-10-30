@@ -1,0 +1,53 @@
+
+
+.card-text {
+    font-size: 2rem;
+    color: ;
+    font-weight: bolder;
+}
+
+.btn-main {
+    background-color: #006699;
+    color: white;
+}
+.btn-secondary {
+    border-color: #006699;
+    background-color: white;
+    color: #006699;
+}
+
+
+/*-----------Footer-----------------*/
+footer {
+    position: fixed;
+    bottom: 1rem;
+    display: block;
+    width: 100%;
+    font-size: 0.5rem;
+}
+.footer-links {
+    background-color: ;
+    display: block;
+    padding-right: auto;
+    text-align: center;
+}
+
+footer a {
+    color: #006699;
+}
+
+footer li {
+    background-color: ;
+    list-style: none;
+    display: inline-block;
+    margin-right: ;
+    margin-left: ;
+}
+
+li + li:before {
+    background-color: ;
+    content: "|";
+    padding-right: 1rem;
+    padding-left: 1rem;
+
+}
